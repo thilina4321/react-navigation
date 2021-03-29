@@ -1,0 +1,20 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    margin: 10px auto;
+    box-shadow: 3px 3px 3px solid black;
+}
+
+.input_model{
+    height: 30px;
+    width: 90%;
+    margin: 10px auto;
+}
+
+.card_btn{
+    padding: 10px;
+    margin: 10px auto;
+    
+    align-self: flex-end;
+
+}
